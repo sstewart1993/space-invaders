@@ -2,13 +2,13 @@
     display: flex;
     flex-wrap: wrap;
     border: solid 1px;
-    width: 300px;
-    height: 300px;
+    width: 500px;
+    height: 500px;
 }
 
 .grid div{
-    width: 20px;
-    height: 20px;
+    width: 33.3px;
+    height: 33.3px;
 }
 
 .shooter{
@@ -17,7 +17,7 @@
 
 .invader{
     background-color: purple;
-    border-radius: 10px;
+    border-radius: 17px;
 }
 
 .boom{
